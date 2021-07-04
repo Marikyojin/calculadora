@@ -123,7 +123,7 @@ const Home = () => {
                 />
                 <Botao
                     handlePress={setNumero}
-                    title={","}
+                    title={"0"}
                 />
             </View>
 
